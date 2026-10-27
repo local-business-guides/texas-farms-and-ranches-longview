@@ -25,6 +25,9 @@
 - [Commercial Real Estate Agency Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/commercial-real-estate-agency-longview/): Find commercial property options with a commercial real estate agency in Longview, Texas, and get help through the transaction.
 - [Franchise Real Estate Agency Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/franchise-real-estate-agency-longview/): Explore potential franchise locations with real estate support in Longview, Texas, from search through negotiation and closing.
 
+## Newsroom
+- [Texas Farms & Ranches Releases Guide for Longview Real Estate Clients](https://local-business-guides.github.io/texas-farms-and-ranches-longview/news/2026-10-27-texas-farms-ranches-releases-guide-for-longview-re/): Texas Farms & Ranches published a guide on working with a real estate agent in Longview, with a companion video, podcast episode and audio version. (2026-10-27)
+
 ## Pages
 - [Real Estate Agent Longview, TX in Texas](https://local-business-guides.github.io/texas-farms-and-ranches-longview/): Get help comparing Texas land, homes, rentals, and commercial property from a Longview-based real estate agency. Call +1903-663-5000.
 - [About Texas Farms & Ranches](https://local-business-guides.github.io/texas-farms-and-ranches-longview/about/): About Texas Farms & Ranches, Longview.
@@ -32,3 +35,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/texas-farms-and-ranches-longview/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/texas-farms-and-ranches-longview/news/rss.xml)
