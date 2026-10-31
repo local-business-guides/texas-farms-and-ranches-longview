@@ -14,25 +14,27 @@
 - Real estate rental agency
 
 ## Guides
-- [Choosing a real estate agent , tx in longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-tx-in-longview/): real estate agent , tx in longview for help comparing property options and planning a sale in Longview, Texas.
-- [How to choose a real estate agent Longview, TX](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-longview-tx/): real estate agent Longview, TX support for property decisions, showings and transaction steps in Longview, Texas.
-- [How to choose the best real estate agent , tx Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/best-real-estate-agent-tx-longview/): Find the best real estate agent , tx Longview for farms, homes, land or commercial property.
-- [Finding a real estate agent , tx near me in Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-tx-near-me/): Talk with a real estate agent , tx near me about property searches, sales and rentals in Longview, Texas.
-- [Local real estate agent , tx Longview for property plans](https://local-business-guides.github.io/texas-farms-and-ranches-longview/local-real-estate-agent-tx-longview/): A local real estate agent , tx Longview can help you plan a property search or sale in Longview, Texas.
-- [Affordable real estate agent , tx Longview for clear planning](https://local-business-guides.github.io/texas-farms-and-ranches-longview/affordable-real-estate-agent-tx-longview/): An affordable real estate agent , tx Longview can help you weigh service needs and property options in Longview, Texas.
+- [How to choose the best real estate agent, tx Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/best-real-estate-agent-tx-longview/): Find the best real estate agent, tx Longview for farms, homes, land or commercial property.
+- [How to choose a real estate agent Longview, TX](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-longview-tx/): real estate agent Longview, TX support for property decisions, showings and transaction steps in Longview.
+- [Choosing a real estate agent in longview, tx](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-tx-in-longview/): real estate agent in longview, tx for help comparing property options and planning a sale in Longview, Texas.
+- [Finding a real estate agent, tx near me in Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-tx-near-me/): Talk with a real estate agent, tx near me about property searches, sales and rentals in Longview, Texas.
+- [Local real estate agent, tx Longview for property plans](https://local-business-guides.github.io/texas-farms-and-ranches-longview/local-real-estate-agent-tx-longview/): A local real estate agent, tx Longview can help you plan a property search or sale in Longview, Texas.
+- [Affordable real estate agent, tx Longview for clear planning](https://local-business-guides.github.io/texas-farms-and-ranches-longview/affordable-real-estate-agent-tx-longview/): An affordable real estate agent, tx Longview can help you weigh service needs and property options in Longview, Texas.
 - [Choosing a real estate agent agency Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agent-agency-longview/): Real estate agent agency Longview guidance for buyers, sellers and property owners in Longview, Texas.
 - [Real estate agency and brokerage Longview guidance](https://local-business-guides.github.io/texas-farms-and-ranches-longview/real-estate-agency-and-brokerage-longview/): Real estate agency and brokerage Longview support to clarify property needs and next steps in Longview, Texas.
 - [Commercial Real Estate Agency Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/commercial-real-estate-agency-longview/): Find commercial property options with a commercial real estate agency in Longview, Texas, and get help through the transaction.
 - [Franchise Real Estate Agency Longview](https://local-business-guides.github.io/texas-farms-and-ranches-longview/franchise-real-estate-agency-longview/): Explore potential franchise locations with real estate support in Longview, Texas, from search through negotiation and closing.
 
 ## Newsroom
+- [Texas Farms & Ranches Publishes Longview Real Estate Agent Guide](https://local-business-guides.github.io/texas-farms-and-ranches-longview/news/2026-10-31-texas-farms-ranches-publishes-longview-real-estate/): Texas Farms & Ranches has published a guide for people looking for a real estate agent in Longview, with video and audio versions available. (2026-10-31)
 - [Texas Farms & Ranches Releases Guide for Longview Real Estate Clients](https://local-business-guides.github.io/texas-farms-and-ranches-longview/news/2026-10-27-texas-farms-ranches-releases-guide-for-longview-re/): Texas Farms & Ranches published a guide on working with a real estate agent in Longview, with a companion video, podcast episode and audio version. (2026-10-27)
 
 ## Pages
-- [Real Estate Agent Longview, TX in Texas](https://local-business-guides.github.io/texas-farms-and-ranches-longview/): Get help comparing Texas land, homes, rentals, and commercial property from a Longview-based real estate agency. Call +1903-663-5000.
+- [Real Estate Agent Longview, TX](https://local-business-guides.github.io/texas-farms-and-ranches-longview/): Get help comparing Texas land, homes, rentals, and commercial property from a Longview-based real estate agency. Call +1903-663-5000.
 - [About Texas Farms & Ranches](https://local-business-guides.github.io/texas-farms-and-ranches-longview/about/): About Texas Farms & Ranches, Longview.
 - [Contact Texas Farms & Ranches](https://local-business-guides.github.io/texas-farms-and-ranches-longview/contact/): Call Texas Farms & Ranches at +1903-663-5000 — Longview.
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/texas-farms-and-ranches-longview/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/texas-farms-and-ranches-longview/news/rss.xml)
+- [Main resource site](https://texas-farms-ranches-longview-1031.warmape5.chatgpt.site)
